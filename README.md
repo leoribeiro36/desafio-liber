@@ -1,4 +1,4 @@
-# Desafio - Concrete
+# Desafio
 
 API restful de exemplificação básica de login e busca de contas
 
